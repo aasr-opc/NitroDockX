@@ -1,0 +1,1 @@
+Drag And Drop These Two (2) Directories Into The "NitroDockX" Root Directory Where The ".exe" Resides

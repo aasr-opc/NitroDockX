@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>D:\Miscellaneous\NitroDockX\Current Project\NitroDockX\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Controls\Configuration\Configuration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Controls\DockTexturizer\DockTexturizer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Controls\IconContainerTextures\IconContainerTextures.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Controls\IconProperties\IconProperties.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Controls\StyleProperties\StyleProperties.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="vstudio.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
